@@ -6,11 +6,15 @@ A basic image manipulation tool in python for encrypting/decrypting files, hiddi
 Getting Started
 Dependencies
 
-    Libraries used matplotlib cryptography pathlib
+    Libraries used 
+    matplotlib 
+    cryptography 
+    pathlib
 
 
 Version History
     0.0.1
+    
         Initial Release
 
 
