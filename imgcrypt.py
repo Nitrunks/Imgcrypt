@@ -87,7 +87,7 @@ def encryption():
             with open(keyopen+".key", 'rb') as filekey:
                 key = filekey.read()
             fernet = Fernet(key)
-            filename=str(input("Please enter the file you'd like to encrypt (add the files extension)\n"))
+            filename=str(input("Please enter the file you'd like to decrypt (add the files extension)\n"))
             os.chdir(input_directory)
             with open(filename, 'rb') as enc_file:
                 encrypted = enc_file.read()
