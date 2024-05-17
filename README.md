@@ -3,18 +3,22 @@
 Description
 
 A basic image manipulation tool in python for encrypting/decrypting files, hidding text using steganography, removing and extracting metadata and adding watermarks
-Getting Started
-Dependencies
 
-    Libraries used 
+
+
+Getting Started
+
+Dependencies
+Libraries used 
+   
     matplotlib 
     cryptography 
     pathlib
 
 
 Version History
-    0.0.1
     
+    0.0.1
         Initial Release
 
 
