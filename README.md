@@ -8,7 +8,7 @@ A basic image manipulation tool in python for encrypting/decrypting files, hiddi
 
 Getting Started
 
-Dependencies
+
 Libraries used 
    
     matplotlib 
